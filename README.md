@@ -29,7 +29,7 @@
     <p>- 📫 How to reach me Mr.Anand.Dewangan@gmail.com</p>
   </div>
   <div align="center">
-  <img height="320px" src="https://user-images.githubusercontent.com/118416821/206888606-c09d6787-9279-421c-b9ba-6f92026b2630.gif"/>
+  <img height="250px" src="https://user-images.githubusercontent.com/118416821/206888606-c09d6787-9279-421c-b9ba-6f92026b2630.gif"/>
 </div>
  
 <div>
